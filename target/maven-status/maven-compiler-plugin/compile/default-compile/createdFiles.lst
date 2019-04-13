@@ -1,0 +1,7 @@
+service/SendMailServiceLocal.class
+dao/ShoabDaoLocal.class
+service/ShoabService.class
+service/ShoabServiceLocal.class
+dao/ShoabDao.class
+service/SendMailService.class
+entity/ShoabEntity.class
